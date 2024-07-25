@@ -5,3 +5,19 @@
 ![Ethereum Badge](https://img.shields.io/badge/-0xEd9121C6C6D813305a7b87CAb702A95F06eC3dbb-A50E03?style=flat-square&labelColor=000000&logo=Ethereum)
 
 **sleep deprived developer, partially drug addict.*
+
+<pre>
+ ~> <strong>cat memo.txt</strong>
+1. if I'm not responding to any of your PRs or issues,
+   feel free to remind me via telegram.
+2. don't start a dialog with just “hello”,
+   plz check nohello.net
+
+ ~> <strong>finger fieldgray</strong>
+login: fieldgray                        name: fieldgray
+directory: /home/fieldgray              shell: /usr/bin/fish
+projects:
+  *. in progress ._.
+plan:
+  learning huh \o/
+</pre>
